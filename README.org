@@ -1,6 +1,7 @@
 * Kody do San Andreas
 ** Zdrowie, gotówka, umiejętności
 | HESOYAM     | pełne zdrowie, pancerz i 250 tys. dol.   |
+| BAGUVIX     | nieśmiertelność                          |
 | CVWKXAM     | nieograniczone zasoby powietrza pod wodą |
 | KANGAROO    | super-skok                               |
 | WORSHIPME   | maksymalny respekt                       |
