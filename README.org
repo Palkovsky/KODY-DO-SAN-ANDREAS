@@ -1,0 +1,61 @@
+* Kody do San Andreas
+** Zdrowie, gotówka, umiejętności
+| HESOYAM     | pełne zdrowie, pancerz i 250 tys. dol.   |
+| CVWKXAM     | nieograniczone zasoby powietrza pod wodą |
+| KANGAROO    | super-skok                               |
+| WORSHIPME   | maksymalny respekt                       |
+| HELLOLADIES | maksymalny seksapil                      |
+| BUFFMEUP    | maksymalne mięśnie                       |
+| BTCDBCB     | maksymalny tłuszcz                       |
+| KVGYZQK     | brak mięśni, brak tłuszczu               |
+| AEDUWNV     | usuwa głód                               |
+** Bronie
+| FULLCLIP           | nieskończona amunicja, bez przeładowywania       |
+| PROFESSIONALKILLER | najwyższy poziom umiejętności dla każdej z broni |
+| LXGIWYL            | bronie 1                                         |
+| PROFESSIONALSKIT   | bronie 2                                         |
+| UZUMYMW            | bronie 3                                         |
+** Poziom poszukiwania przez policję
+| TURNUPTHEHEAT   | dwie gwiazdki                                |
+| TURNDOWNTHEHEAT | usuwa wszystkie gwiazdki                     |
+| AEZAKMI         | poziom poszukiwania nie będzie się zwiększał |
+| BRINGITON       | sześć gwiazdek                               |
+** Czas
+| SLOWITDOWN   | wolniejszy upływ czasu      |
+| SPEEDITUP    | szybszy upływ czasu         |
+| YSOHNUL      | szybszy zegar               |
+| OFVIAC       | zachód słońca, gdzina 21:00 |
+| NIGHTPROWLER | zawsze północ               |
+| BOOOOORING   | wolniejszy upływ czasu      |
+| ONSPEED      | szybszy upływ czasu         |
+** Pojazdy
+| TRUEGRIME        | Śmieciarka        |
+| ITSALLBULL       | buldożer          |
+| AMOMHRER         | czołg             |
+| MONSTERMASH      | Monster-Truck     |
+| KGGGDKP          | poduszkowiec      |
+| RZHSUEW          | wózek golfowy     |
+| VROCKPOKEY       | wyścigówka 1      |
+| VPJTQWV          | wyścigówka 2      |
+| JQNTDMH          | jeep              |
+| ROCKETMAN        | plecak odrzutowy  |
+| AIYPWZQP         | spadochron        |
+| FOURWHEELFUN     | quad              |
+| OLDSPEEDDEMON    | Bloodring Banger  |
+| CELEBRITYSTATUS  | limuzyna          |
+| WHERESTHEFUNERAL | karawan           |
+| OHDUDE           | helikopter bojowy |
+| FLYINGTOSTUNT    | mały samolot      |
+| JUMPJET          | odrzutowiec       |
+** Ruch uliczny
+| ZEIIVG           | tylko zielone światła                       |
+| WHEELSONLYPLEASE | niewidzialne samochody                      |
+| GHOSTTOWN        | mniejszy ruch na drogach                    |
+| YLTEICZ          | agresywni kierowcy                          |
+| VQIMAHA          | szybsze samochody na ulicach                |
+| LLQPFBN          | tylko różowe samochody                      |
+| IOWDLAC          | tylko czarne samochody                      |
+| FVTMNBZ          | tylko samochody z farm (traktory, kombajny) |
+| BMTPWHR          | tylko samochody i piesi z farm              |
+| EVERYONEISRICH   | tylko drogie samochody                      |
+| EVERYONEISPOOR   | tylko tanie samochody                       |
